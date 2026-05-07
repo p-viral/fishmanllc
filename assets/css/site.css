@@ -796,7 +796,7 @@ button, input, textarea, select { font: inherit; color: inherit; }
 .pagehead::before {
   content: "";
   position: absolute; inset: 0; z-index: -1;
-  background-image: url('../img/wallpaper-law.webp');
+  background-image: url('../img/courthouse-columns.jpg');
   background-position: right center;
   background-size: cover;
   background-repeat: no-repeat;
